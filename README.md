@@ -1,4 +1,4 @@
-# Анализ мобильного приложения
+# Анализ мобильной игры
 Анализ продуктовых метрик продукта геймдева
 ## Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
